@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713335061 source:c:\users\dell\onedrive\desktop\college\sem 2\data structures\package\final\final package\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
